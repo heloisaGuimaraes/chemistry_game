@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: b22511e60c58a6a30b5d971a8da09175
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - atlas: {fileID: 4343727234628468602, guid: 08dc8ce93473315d2890b4207c4b41f9, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

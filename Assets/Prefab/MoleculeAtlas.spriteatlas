@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MoleculeAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: bc75769e7c7509caa89bfc70525de540, type: 3}
+    totalSpriteSurfaceArea: 11100000
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: a3b769302ea400a19a1e0551595839d9, type: 3}
+  - {fileID: 21300000, guid: 087a216027a2cdd5f80d473a8e716d78, type: 3}
+  - {fileID: 21300000, guid: 8e3d38e09baf56d77971bb786aa7f360, type: 3}
+  - {fileID: 21300000, guid: f5af1b114e989be198fd893aeef3161e, type: 3}
+  - {fileID: 21300000, guid: 53e8b641079b858ac92fbada699d5fa9, type: 3}
+  - {fileID: 21300000, guid: a15f336175571d445b3df8b18a07896e, type: 3}
+  - {fileID: 21300000, guid: 6a1326813adf38f6eb0bde2de56941ff, type: 3}
+  - {fileID: 21300000, guid: 15111f22f8b91683c9c1b724d16c636e, type: 3}
+  - {fileID: 21300000, guid: 6b27c6d23aa732537888ce7a24e0256a, type: 3}
+  - {fileID: 21300000, guid: c1c56c331bc464fabb6b5c1be564ba79, type: 3}
+  - {fileID: 21300000, guid: a76d9f042c4d87b55b2f86e4f4101d03, type: 3}
+  - {fileID: 21300000, guid: 85199bb4059dc519eb368cef55046df9, type: 3}
+  - {fileID: 21300000, guid: 31837ec43ef6e687e870f62e0733932b, type: 3}
+  - {fileID: 21300000, guid: 442da8f6f296e30a6a01d45c7552570e, type: 3}
+  - {fileID: 21300000, guid: f924c9f712218bda880fdb8ceb83bc02, type: 3}
+  - {fileID: 21300000, guid: 87f199688604967188e6dda2b08a492b, type: 3}
+  - {fileID: 21300000, guid: d0b56a98c3d5c719486e01d7e788645b, type: 3}
+  - {fileID: 21300000, guid: 8251564941e1f71ecb710ef0bb5f6efb, type: 3}
+  - {fileID: 21300000, guid: b0ecc869fab323b0c962cd79f4b188a5, type: 3}
+  - {fileID: 21300000, guid: 2accf31a0d55c6a7eb9dd4287a7c3a6d, type: 3}
+  - {fileID: 21300000, guid: 38a748aaf33c1f03bbde9664a54d12c5, type: 3}
+  - {fileID: 21300000, guid: 4b60087bd82b455f89d8174460e16e64, type: 3}
+  - {fileID: 21300000, guid: 28e0eddb20a2a90d9adb087ff2567fe8, type: 3}
+  - {fileID: 21300000, guid: 92b451ebde6465328a5e2aa2a0241c29, type: 3}
+  - {fileID: 21300000, guid: d60c013c7382bd2c0b8a4403a0d6fa50, type: 3}
+  - {fileID: 21300000, guid: 482ab67cdfcd17cca85ecb65e1ef56d2, type: 3}
+  - {fileID: 21300000, guid: 13cfadec05582afc9b29a4ca4e49d18b, type: 3}
+  - {fileID: 21300000, guid: 444b141dfd2fa8bc092fb01433639ffe, type: 3}
+  - {fileID: 21300000, guid: bd6f7a2d6c6495fb3ac749d4ee529997, type: 3}
+  - {fileID: 21300000, guid: f3de8f5d4842eab6fb813a2657392703, type: 3}
+  - {fileID: 21300000, guid: a630457d8285459f1afaf238c95ba217, type: 3}
+  - {fileID: 21300000, guid: fe3d459dbfea07a83b153172bd7950e6, type: 3}
+  - {fileID: 21300000, guid: cf125e8e128ad36c19ca25507a294433, type: 3}
+  - {fileID: 21300000, guid: 8c504e1f3a10471a89541a9644071cf1, type: 3}
+  - {fileID: 21300000, guid: 2ffbf62fe3d7839dca2789942500e5e5, type: 3}
+  - {fileID: 21300000, guid: b1762f6f382fce680aacb393fbd06c26, type: 3}
+  - {fileID: 21300000, guid: ef308bcf1067f81a693e1e061bbc2277, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - molecula_14
+  - molecula_10
+  - molecula_3
+  - molecula_33
+  - molecula_11
+  - molecula_30
+  - molecula_8
+  - molecula_22
+  - molecula_15
+  - molecula_19
+  - molecula_37
+  - molecula_7
+  - molecula_23
+  - molecula_31
+  - molecula_34
+  - molecula_5
+  - molecula_29
+  - molecula_13
+  - molecula_2
+  - molecula_28
+  - molecula_20
+  - molecula_25
+  - molecula_35
+  - molecula_4
+  - molecula_36
+  - molecula_24
+  - molecula_27
+  - molecula_18
+  - molecula_12
+  - molecula_21
+  - molecula_1
+  - molecula_32
+  - molecula_16
+  - molecula_26
+  - molecula_17
+  - molecula_9
+  - molecula_6
+  m_Tag: MoleculeAtlas
+  m_IsVariant: 0

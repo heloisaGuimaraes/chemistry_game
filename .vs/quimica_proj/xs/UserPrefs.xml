@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{A97903B3-5269-9AFB-5739-A0B642132926}|Testes de Unidade">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ButtonSettings.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ButtonSettings.cs" Line="31" Column="43" />
+      <File FileName="Assets/Scripts/MainMenu.cs" Line="23" Column="1" />
+      <File FileName="Assets/Scripts/MoleculeAtlas.cs" Line="32" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="quimica_proj" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Assets" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="ButtonSettings.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
